@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985530808279",
+    "project_id": "noteme-9a89a",
+    "storage_bucket": "noteme-9a89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985530808279:android:df7cf77397a9fff799fd92",
+        "android_client_info": {
+          "package_name": "com.example.demodog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1U9Ac4o5NOZ-BNJ9ArjQbzV_W-r4EXQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
